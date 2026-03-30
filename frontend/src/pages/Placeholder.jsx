@@ -5,7 +5,7 @@ import razorpay from '../assets/razorpay.png'
 import { shopDataContext } from '../context/ShopContext'
 import axios from 'axios'
 import { userDataContext } from '../context/UserContext'
-import { authDataContext } from '../context/authContext'
+import { authDataContext } from '../context/AuthContext'
 import { useNavigate } from 'react-router-dom'
 
 const Placeholder = () => {

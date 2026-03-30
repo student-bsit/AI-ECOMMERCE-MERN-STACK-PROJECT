@@ -5,7 +5,7 @@ import { GoEyeClosed } from "react-icons/go";
 import { FiEye } from "react-icons/fi";
 import { useNavigate } from 'react-router-dom'
 import { useContext } from 'react';
-import { authDataContext } from '../context/authContext';
+import { authDataContext } from '../context/AuthContext';
 import axios from 'axios'
 import { signInWithPopup } from 'firebase/auth';
 import { auth, provider } from '../../utils/firebase';

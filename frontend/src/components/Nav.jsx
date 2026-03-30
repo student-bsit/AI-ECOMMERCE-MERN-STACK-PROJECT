@@ -11,7 +11,7 @@ import { userDataContext } from '../context/UserContext';
 import { IoMdHome } from "react-icons/io";
 import { useNavigate } from 'react-router-dom'
 import axios from 'axios';
-import { authDataContext } from '../context/authContext';
+import { authDataContext } from '../context/AuthContext';
 import { shopDataContext } from '../context/ShopContext';
 
 const Nav = () => {
