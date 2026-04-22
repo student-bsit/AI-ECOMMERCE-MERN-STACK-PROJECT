@@ -58,10 +58,10 @@ Create .env file in /server:
 
 PORT=8000
 
-MONGODB_URL=mongodb+srv://ahteshamrauf9_db_user:EU81hXoHRx1x8D5A@cluster0.o5f3lrn.mongodb.net/Eccomerce
+MONGODB_URL=your Url
 
-JWT_SECRET=wsk21YUEG23
-CLOUDINARY_API_SECRET=oc_pbKKa2Gze7epLQlGQhC9VK0A
+JWT_SECRET=your secret key
+CLOUDINARY_API_SECRET=your key
 
 Run backend:
 
